@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - LightWay Academy</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top hidden-print">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("LightWay Academy Online Fees Payment", "Index", "Fees", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <li>@Html.ActionLink("Class", "Index", "ClassTerms")</li>
+                        <li>@Html.ActionLink("Fees", "Index", "Fees")</li>
+                        <li>@Html.ActionLink("Verify Payment", "Index", "SchoolFees")</li>
+                        <li>@Html.ActionLink("Report", "Report", "SchoolFees")</li>
+                    }
+
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer class="hidden-print">
+            <div class="row">
+                <p class="pull-left">&copy; @DateTime.Now.Year - LightWay Academy| Powered by: <a href="http://www.osoftint.com" target="_blank"> Powered By O Soft Integrated Resources Limited</a></p>
+                <p class="pull-right"><img src="~/Content/remita-payment-logo-horizonal.png" /></p>
+            </div>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

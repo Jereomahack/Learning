@@ -1,0 +1,347 @@
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\ApplicationInsights.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\csc.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Web.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Owin.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\WebGrease.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Web.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Optimization.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Antlr3.Runtime.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.csprojResolveAssemblyReference.cache
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\ApplicationInsights.config
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\csc.exe
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Collections.Immutable.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Reflection.Metadata.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\vbc.exe
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe.config
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll.config
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.pdb
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Antlr3.Runtime.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.SqlServer.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Agent.Intercept.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.DependencyCollector.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Web.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.WindowsServer.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.ApplicationInsights.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Google.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Web.Infrastructure.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Newtonsoft.Json.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Owin.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Helpers.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Mvc.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Optimization.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Razor.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Deployment.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Razor.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\WebGrease.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.DependencyCollector.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Web.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.WindowsServer.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.ApplicationInsights.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Helpers.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Mvc.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Optimization.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Razor.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Deployment.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Razor.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Antlr3.Runtime.pdb
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Newtonsoft.Json.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.SqlServer.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Google.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.dll
+C:\doc\c#\projects\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.pdb
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\ApplicationInsights.config
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\csc.exe
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\vbc.exe
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll.config
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.pdb
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Antlr3.Runtime.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.SqlServer.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Web.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.ApplicationInsights.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Newtonsoft.Json.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Owin.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Helpers.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Mvc.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Optimization.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Razor.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Razor.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\WebGrease.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Web.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.ApplicationInsights.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Helpers.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Mvc.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Optimization.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Razor.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Razor.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Antlr3.Runtime.pdb
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Newtonsoft.Json.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.SqlServer.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.dll
+C:\Users\clair\Documents\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.pdb
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\ApplicationInsights.config
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\csc.exe
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\vbc.exe
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll.config
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.pdb
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Antlr3.Runtime.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.SqlServer.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Web.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.ApplicationInsights.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Newtonsoft.Json.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Owin.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Helpers.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Mvc.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Optimization.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Razor.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Razor.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\WebGrease.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.Web.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.ApplicationInsights.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Helpers.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Mvc.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Optimization.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.Razor.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\System.Web.WebPages.Razor.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Antlr3.Runtime.pdb
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Newtonsoft.Json.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\EntityFramework.SqlServer.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.csprojResolveAssemblyReference.cache
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.dll
+C:\Users\JEREOMA\Documents\Visual Studio 2015\Projects\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.pdb
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\ApplicationInsights.config
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\csc.exe
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\vbc.exe
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll.config
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.dll
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\bin\Lightway Academy school fee application.pdb
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.csproj.AssemblyReference.cache
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.csproj.CoreCompileInputs.cache
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.csproj.CopyComplete
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.dll
+C:\Users\JEREOMA\Pictures\GTV\Lightway Academy school fee application\Lightway Academy school fee application\obj\Debug\Lightway Academy school fee application.pdb

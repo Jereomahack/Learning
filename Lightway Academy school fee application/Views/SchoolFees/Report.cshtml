@@ -1,0 +1,105 @@
+﻿@model IEnumerable<Lightway_Academy_school_fee_application.Models.SchoolFee>
+
+@{
+    ViewBag.Title = "Report";
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">School Fess Payment Report by Class</div>
+    <div class="panel-body">
+        @if (ViewBag.Message != null)
+        {
+            <div>
+                <p style="font-size:20px;text-align:center"><b>Total Number: </b><span style="color:green">@ViewBag.Message &emsp; Learners</span></p>
+            </div>
+        }
+
+        @using (Html.BeginForm("Report", "SchoolFees", FormMethod.Get))
+        {
+            <div class="panel panel-primary hidden-print">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Search Box</h3>
+                </div>
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-3">
+                            Class @Html.DropDownList("SearchString", ViewBag.Class as SelectList, "Select Class", new { @class = "form-control input-sm" })
+                        </div>
+                        <div class="col-md-3">
+                            <a style="color:red">From Date </a> @Html.TextBox("SearchStringFrom", ViewBag.FromCurrentFilter as string, new { @class = "form-control input-sm", type = "date" })
+                        </div>
+                        <div class="col-md-3">
+                            <a style="color:red">To Date</a> @Html.TextBox("SearchStringTo", ViewBag.ToCurrentFilter as string, new { @class = "form-control input-sm", type = "date" })
+                        </div>
+                        <div class="col-md-3">
+                            <br />
+                            <input type="submit" value="Search" class="btn btn-primary btn-sm" />
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        }
+        <table class="table table-bordered table-condensed table-responsive table-striped">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.NameOfStudent)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClassTerm)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Session)
+                </th>
+                <th>
+                   Amount(NGN)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PhoneNumber)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.RRR)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Statues)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.DateOfPayment)
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NameOfStudent)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ClassTerm)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Session)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Amount)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.PhoneNumber)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.RRR)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Statues)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DateOfPayment)
+                    </td>
+                </tr>
+            }
+
+        </table>
+    </div>
+</div>
+
+

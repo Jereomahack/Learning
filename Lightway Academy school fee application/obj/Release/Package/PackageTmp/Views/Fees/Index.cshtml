@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Lightway_Academy_school_fee_application.Models.Fees>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">School Fees List</div>
+    <div class="panel-body">
+        @if (User.IsInRole("Admin"))
+        {
+            <p>
+                @Html.ActionLink("Create New", "Create")
+            </p>
+        }
+        <div>
+            <h3 style="color:red">Instruction:</h3>
+            <p>Click on the Green Button "Make Payment" as it applied to your child class and the term you want to make payment for</p>
+            <p>Thank You</p>
+        </div>
+        <div>
+            <p class="pull-right"><span style="color:red"><b>Note: </b> </span>To pay or get information about previous Academic Session, search by typing the session into the search box below e.g. (2016/2017). Then click on the Search Button.</p>
+            @using (Html.BeginForm("Index", "Fees", FormMethod.Get))
+            {
+                <div class="pull-right">
+                 Enter Session  @Html.TextBox("SearchString", ViewBag.CurrentFilter as string, new { @class = "form-control input-sm" })
+                    <input type="submit" value="Search" class="btn btn-primary btn-sm" />
+                </div>
+            }
+        </div>
+        <table class="table table-bordered table-condensed  table-striped">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClassName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Session)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Term)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Amount)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ClassName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Session)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Term)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Amount)
+                    </td>
+                    <td>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            @Html.ActionLink("Edit", "Edit", new { id = item.Id }, new { @class = "btn btn-warning btn-xs" })
+                            @Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-danger btn-xs" })
+                            @Html.ActionLink("Make Payment", "Create", "SchoolFees", new { id = item.Id }, new { @class = "btn btn-success btn-xs" })
+                        }
+                        else
+                        {
+                            @Html.ActionLink("Make Payment", "Create", "SchoolFees", new { id = item.Id }, new { @class = "btn btn-success btn-xs" })
+                        }
+
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+</div>

@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Lightway_Academy_school_fee_application.Models.Setting>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">General Settings</div>
+    <div class="panel-body">
+        @if (User.IsInRole("Admin"))
+        {
+            <p>
+                @Html.ActionLink("Create New", "Create")
+            </p>
+        }
+
+
+        <table class="table table-bordered table-condensed table-responsive table-striped">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Value)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Value)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            @Html.ActionLink("Edit", "Edit", new { id = item.Id },new { @class="btn btn-waraning input-sm"})
+                            @*@Html.ActionLink("Delete", "Delete", new { id = item.Id }, new { @class = "btn btn-danger input-sm" })*@
+                        }
+
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+</div>
+

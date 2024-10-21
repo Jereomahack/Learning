@@ -1,0 +1,98 @@
+﻿@model Lightway_Academy_school_fee_application.Models.SchoolFee
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">School Fees Payment</div>
+    <div class="panel-body">
+        @if (ViewBag.ChangeButton == "Remita")
+        {
+            <div style="color:red;font-size:30px;text-align:center">
+                <span style="color:black">Your Payment Reference Number is: </span> @ViewBag.rrr
+            </div>
+        }
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.NameOfStudent, htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.NameOfStudent, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                        @Html.ValidationMessageFor(model => model.NameOfStudent, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.PhoneNumber, htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.PhoneNumber, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                        @Html.ValidationMessageFor(model => model.PhoneNumber, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.EmailAddress, htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.EditorFor(model => model.EmailAddress, new { htmlAttributes = new { @class = "form-control input-sm" } })
+                        @Html.ValidationMessageFor(model => model.EmailAddress, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Amount, htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.TextBox("Amount", ViewBag.Amount as string, new { @class = "form-control input-sm", @readonly = true })
+                        @Html.ValidationMessageFor(model => model.EmailAddress, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ProcessingFee, htmlAttributes: new { @class = "control-label col-md-4" })
+                    <div class="col-md-8">
+                        @Html.TextBox("ProFee", ViewBag.ProcessingFee as string, new { @class = "form-control input-sm", @readonly = true })
+                        @Html.ValidationMessageFor(model => model.EmailAddress, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                @if (ViewBag.ChangeButton == "Pay")
+                {
+                    <div style="font-size:20px;color:red;text-align:center">
+                        <span style="color:black">Total Amount</span>  NGN @ViewBag.TotalAmount
+                    </div>
+               
+                    <div class="form-group">
+                        <div class="col-md-offset-3 col-md-10">
+                            <input type="submit" value="Initaite Payment" class="btn btn-primary" />
+                        </div>
+                    </div>
+                }
+
+            </div>
+        }
+
+        <form action="http://www.remitademo.net/remita/ecomm/finalize.reg" name="SubmitRemitaForm" method="POST">
+            <input name="merchantId" value="@ViewBag.MechantID" type="hidden">
+            <input name="rrr" value="@ViewBag.rrr" type="hidden">
+            <input name="hash" value="@ViewBag.Hash" type="hidden">
+            <input name="responseurl" value="@ViewBag.ResponseURL" type="hidden">
+            <input name="paymenttype" value="@ViewBag.paytype" type="hidden">
+            @if (ViewBag.ChangeButton == "Remita")
+            {
+                <input type="submit" name="submit_btn" value="Click to Proceed" class="btn btn-danger col-md-offset-4">
+            }
+
+        </form>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

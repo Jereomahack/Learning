@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Receipt";
+}
+
+<div class="container">
+    <div class="panel panel-primary">
+        <div class="panel-heading">PAYMENT RECEIPT</div>
+        <div class="panel-body">
+
+            <div style="width:1200px;float:left">
+                <p style="text-align:center;color:red;font-size:40px;font-family:Arial, Helvetica, sans-serif"><b>LIGHTWAY ACADEMY</b></p>
+                <p style="text-align:center;color:blue;font-size:20px;font-family:Courier New, Courier, monospace" class="textcolor"><b>58, PARAKOU STREET WUSE II, ABUJA</b></>
+                <p style="text-align:center;color:dodgerblue;font-size:12px;font-family:Courier New, Courier, monospace">Telephone:  07040079595    Email:  mail@lightwayacademy.com       Website: www.lightwayacademy.com</p>
+
+            </div>
+
+            <div>
+                <br />
+                <br />
+                <br />
+                <div>
+
+                    @if (@ViewBag.statuscode == "01" || @ViewBag.statuscode == "00")
+                    {
+                        <h2 style="color:green;font-size:30px;text-align:center">@ViewBag.Message</h2>
+                        <p style="font-size:16px"><b>Name of Payer: </b><span style="color:green">@ViewBag.Name</span></p>
+                        <p style="font-size:16px"><b>Phone: </b><span style="color:green">@ViewBag.Phone</span></p>
+                        <p style="font-size:16px"><b>Email: </b><span style="color:green">@ViewBag.Email</span></p>
+                        <p style="font-size:16px"> Please copy this <b>Remita Retrieval Reference: </b><span style="color:red;font-size:20px"><b>@ViewBag.rrr</b></span> this will be used to verify your payment in the school</p>
+                        <p style="font-size:16px">In the case where you forget the Reference Number above, the phone number or email you provided during payment can also be use</p>
+                        <p style="font-size:16px"><b><span style="color:red">NOTE: </span></b>Please check the email address you provided during payment, a payment detail has been sent.</p>
+                        <p style="font-size:20px;color:darkblue">Thank you</p>
+                    }
+                    else if (@ViewBag.statuscode == "021")
+                    {
+                        <h2 style="color:green;font-size:30px">@ViewBag.Message</h2>
+                        <h2>RRR Generated Successfully</h2>
+                        <p><b>Remita Retrieval Reference: </b>@ViewBag.rrr</p>
+                        <p>You can copy this RRR about and make payment in any of the banks i nigeria</p>
+                        <p style="font-size:20px;color:darkblue">Thank you</p>
+                    }
+                    else
+                    {
+                        <h2 style="color:green;font-size:30px">@ViewBag.Message</h2>
+                        if (@ViewBag.rrr != null)
+                        {
+                            <p>Your Remita Retrieval Reference is <span><b>@ViewBag.rrr</b></span><br /></p>
+                        }
+                        <p><b>Reason: @ViewBag.Message <span><a href="~/Fees/Index">Please try again</a></span> </b> </p>
+                    }
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
