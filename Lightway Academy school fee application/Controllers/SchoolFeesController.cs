@@ -174,9 +174,9 @@ namespace Lightway_Academy_school_fee_application.Controllers
 
 
             //declaring variables
-            string merchant_id = "2547916";
-            string serviceType_id = "4430731";
-            string apiKey = "1946";
+            string merchant_id = "000000";
+            string serviceType_id = "000000";
+            string apiKey = "0000";
             string gatewayURL = "http://www.remitademo.net/remita/ecomm/split/init.reg";
             //string returnedURLReceiptPage = "http://localhost:52062/SchoolFees/Receipt";
             string returnedURLReceiptPage = "http://lightwayfeesportal.azurewebsites.net/SchoolFees/Receipt";
